@@ -32,7 +32,7 @@ class Main {
   {
    if(num > 0)
    {
-   return num * multi(num - 8); 
+   return num * multi(num - 10); 
    }else{
      return 1;
    }
@@ -41,7 +41,7 @@ class Main {
   {
    if(num > 0)
    {
-   return num / div(num - 2); 
+   return num / div(num / 2); 
    }else{
      return 1; 
 
