@@ -43,7 +43,7 @@ class Main {
    {
    return num / div(num - 2); 
    }else{
-     return 1;
+     return 1; 
 
      
    }
